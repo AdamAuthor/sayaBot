@@ -2,5 +2,5 @@ db:
   username: adam
   host: localhost
   port: 5432
-  dbname: postgres
+  dbname: telegram
   sslmode: disable
